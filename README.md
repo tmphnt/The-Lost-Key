@@ -7,7 +7,11 @@ The Lost Key é um jogo de plataforma criado com Pygame para a disciplina de Pro
 </div>
 
 <div align="center">
-    <img src="assets/game_video/game-video.gif" alt="GIF demonstrando a gameplay">
+    <img src="map_screenshots/map1.png" alt="Print do mapa 1">
+<div>
+
+<div align="center">
+    <img src="map_screenshots/map2.png" alt="Print do mapa 2">
 <div>
 
 ## Como instalar e rodar o jogo
