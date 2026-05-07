@@ -1,6 +1,6 @@
 # Jogo - The Lost Key
 ## Sobre o Jogo
-The Lost Key é um jogo de plataforma criado com Pygame para a disciplina de Programação Orientada a Objetos II - UFSC 2023.2. Mais informações sobre o jogo e como jogar na imagem abaixo.
+The Lost Key é um jogo de plataforma criado com Pygame para a disciplina de Programação Orientada a Objetos II - UFSC 2023.2. Mais informações sobre o jogo e como jogar nas imagens abaixo.
 
 <div align="center">
     <img src="assets/UI/tutorial.png" alt="Descrição do jogo">
