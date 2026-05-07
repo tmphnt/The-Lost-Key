@@ -16,8 +16,10 @@ The Lost Key é um jogo de plataforma criado com Pygame para a disciplina de Pro
 
 ## Como instalar e rodar o jogo
 
-Para executar o jogo, é necessário que o usuário tenha Python instalado na máquina e as dependências (pygame e pytmx).
+Para executar o jogo, é necessário que o usuário tenha Python <=3.13 instalado na máquina e as dependências (pygame e pytmx).
 Com o python instalado, vá ao terminal do computador aberto na pasta do jogo e escreva:
+
+### ❗️❗️ Aviso Importante: Nesse momento, Python 3.13 ou superior não receberam suporte do pygame. ❗️❗️ 
   
 ### Mac e Linux
 
